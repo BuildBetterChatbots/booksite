@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Build Better Chatbots
 
 You can use the [editor on GitHub](https://github.com/BuildBetterChatbots/booksite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
